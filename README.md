@@ -7,7 +7,7 @@ This repository is a hands-on learning resource for understanding and applying l
 1. **Datasets**:
    - `homeprices.csv`: A simple dataset to understand linear regression with one variable.
    - Practice datasets for hands-on exercises.
-   - A dataset for building a two-variable machine learning model for home price prediction.
+   - A dataset for building a two-variable machine learning model for home price prediction (Multi-variable-home.csv).
 
 2. **Jupyter Notebooks**:
    - **Linear Regression (One Variable)**: A notebook that demonstrates training a model using a single independent variable, with step-by-step explanations.
